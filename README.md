@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ombhavsar69/Ombhavsar69/blob/main/robot.jpeg)
 <h1 align="center">Hi 👋, I'm Om G Bhavsar</h1>
 <h3 align="center">A passionate AIML Engineer from India.A Passionated Ml Engineer And a Data Analyst which seeks oppurtunity in the Software Industry.</h3>
-<img align="right"alt="coding" width="40" src="![image](https://github.com/Ombhavsar69/Ombhavsar69/assets/144506572/b9ab8cad-0937-449d-869f-75026bb4be52)">
+<img align="right"alt="coding" width="200" src="https://github.com/Ombhavsar69/Ombhavsar69/blob/main/images.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhavsar69&label=Profile%20views&color=0e75b6&style=flat" alt="ombhavsar69" /> </p>
 
